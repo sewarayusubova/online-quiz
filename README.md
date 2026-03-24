@@ -17,3 +17,8 @@ npx tsx migrate_duration.ts
 ```
 `
 npm run dev
+
+
+A default admin account is created automatically when the server first runs.
+- **Username**: `admin`
+- **Password**: `admin123`
